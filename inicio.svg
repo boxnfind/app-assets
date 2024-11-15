@@ -1,0 +1,10 @@
+<svg id="Grupo_11" data-name="Grupo 11" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.595" height="27" viewBox="0 0 23.595 27">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_30" data-name="Rectángulo 30" width="23.595" height="27" fill="#6b1572"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_10" data-name="Grupo 10" clip-path="url(#clip-path)">
+    <path id="Trazado_7" data-name="Trazado 7" d="M19.806,8.5l3.629-5.729a1,1,0,0,0-.84-1.535H4.024V1a1,1,0,0,0-2,0V25H1a1,1,0,0,0,0,2H5.046a1,1,0,0,0,0-2H4.024V15.758H22.595a1,1,0,0,0,.845-1.535ZM4.024,13.758V3.236H20.773l-3,4.725a1,1,0,0,0,0,1.071l3,4.726Z" fill="#6b1572"/>
+  </g>
+</svg>
